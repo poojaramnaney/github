@@ -4,7 +4,7 @@
 }
 body{
     background-color: #2C3333;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .nav {
     height: 10vh;
@@ -78,7 +78,7 @@ body{
     font-weight: 300;
 }
 .connect{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     width: 180px;
     height: 50px;
     border: 1.5px solid goldenrod;
@@ -185,7 +185,8 @@ height: fit-content;
       } 
       .page-item{
        background: #2e2e2d;
-        padding: 0.2em;
+        padding: 0.6em;
+        /* border-radius: 30px; */
         border:1px solid white;
        
       }
